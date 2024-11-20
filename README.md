@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshal Wahatule</h1>
+<h1 align="center">Hi 👋, I'm Harshal</h1>
 <h3 align="center">
   Passionate Electronics and Communication Engineering Student | Aspiring Embedded Hardware Engineer <br>
   Seeking Exciting Opportunities in the Electronics Sector | PCB Design | Embedded C | KiCad | Arduino | Matlab | Cadence | Linux
